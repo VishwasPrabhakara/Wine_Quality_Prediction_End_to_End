@@ -32,7 +32,7 @@ python app.py
 
 Now,
 ```bash
-open up you local host and port
+open up you local host and port by clicking on the url displayed in the terminal
 ```
 
 
