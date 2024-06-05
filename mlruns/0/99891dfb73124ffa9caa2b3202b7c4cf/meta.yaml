@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ME/ME_2nd_Sem/Wine_Quality_Prediction_End_to_End/mlruns/0/99891dfb73124ffa9caa2b3202b7c4cf/artifacts
+end_time: 1717608477888
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99891dfb73124ffa9caa2b3202b7c4cf
+run_name: bedecked-fowl-726
+run_uuid: 99891dfb73124ffa9caa2b3202b7c4cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717608472928
+status: 3
+tags: []
+user_id: vp140
