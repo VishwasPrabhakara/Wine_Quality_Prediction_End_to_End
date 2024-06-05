@@ -138,7 +138,7 @@ export MLFLOW_TRACKING_PASSWORD=*************
 
     AWS_REGION = us-east-1
 
-    AWS_ECR_LOGIN_URI = 992382428717.dkr.ecr.us-east-1.amazonaws.com/winequality
+    AWS_ECR_LOGIN_URI = 992382428717.dkr.ecr.us-east-1.amazonaws.com
 
     ECR_REPOSITORY_NAME = winequality
 
